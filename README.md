@@ -1,6 +1,11 @@
+
 # DSC180A-Methodology-5
-## Jason Hauk (jhauk@ucsd.edu)
-## A01 - Tiffany Amariuta
+
+Jason Hauk (jhauk@ucsd.edu)
+
+A01 - Tiffany Amariuta
+
+## Questions
 
 1. What is the most interesting topic covered in your domain this quarter?
 2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.
